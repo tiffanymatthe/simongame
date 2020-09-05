@@ -1,0 +1,23 @@
+<VSTemplateManifest Version="1.0" Locale="1033" xmlns="http://schemas.microsoft.com/developer/vstemplatemanifest/2015">
+  <VSTemplateContainer TemplateType="Project">
+    <RelativePathOnDisk>VC\APSC160\DAQlib\DAQTemplate</RelativePathOnDisk>
+    <TemplateFileName>DAQTemplate.vstemplate</TemplateFileName>
+    <VSTemplateHeader>
+      <TemplateData>
+        <Name>APSC160 - DAQ</Name>
+        <Description>Template for DAQ applications</Description>
+        <ProjectType>VC</ProjectType>
+        <TemplateID>ca.ubc.ece.APSC160.DAQ</TemplateID>
+        <SortOrder>1000</SortOrder>
+        <CreateNewFolder>true</CreateNewFolder>
+        <CreateInPlace>true</CreateInPlace>
+        <DefaultName>DAQ</DefaultName>
+        <ProvideDefaultName>true</ProvideDefaultName>
+        <LocationField>Enabled</LocationField>
+        <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+        <Icon>DAQTemplate.ico</Icon>
+        <NumberOfParentCategoriesToRollUp>2</NumberOfParentCategoriesToRollUp>
+      </TemplateData>
+    </VSTemplateHeader>
+  </VSTemplateContainer>
+</VSTemplateManifest>
