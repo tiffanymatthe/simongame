@@ -1,9 +1,8 @@
 /*
  * Author: Tiffany Matthe           
- * Student Number: 48595250
  * Course: APSC 160, at UBC
  * Lab Section: L1N      
- * Date:             11/23/2019 6:31:28 PM
+ * Date: 11/23/2019 6:31:28 PM
  *           
  * Purpose: Implements Simon's game. Displays a pattern of LEDS and checks if user pushes the right switches to copy pattern.
  *			Flashes red 3x if wrong, green 3x if round of 5 has been successfully accomplished.
